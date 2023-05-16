@@ -1,2 +1,5 @@
+#! /bin/bash
+
 cat /etc/*release
 free -h
+echo "System info looks good"
